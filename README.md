@@ -62,7 +62,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## How to build a YouTube Plus app using Github actions
 > [!NOTE]
-> If this your first time, complete following steps before starting:
+> If this is your first time, complete following steps before starting:
 >
 > 1. **Fork this repository** using the fork button on the top right
 > 2. **Enable GitHub Actions permissions** on your forked repository:
