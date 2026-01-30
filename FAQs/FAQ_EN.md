@@ -41,3 +41,20 @@
       <li>Sign back into the account that was having issues</li>
     </ol>
 </details>
+<br>
+<details>
+  <summary>I can't find the Settings option to enable GitHub Actions permissions. Where is it?</summary>
+    <p>If you're having trouble finding the Settings option on your forked repository, here's a detailed guide:</p>
+    <ol>
+      <li><strong>Make sure you're on YOUR forked repository</strong>, not the original repository. The URL should look like <code>github.com/YOURUSERNAME/YTLite</code>, not <code>github.com/dayanch96/YTLite</code></li>
+      <li>At the top of your repository page, you'll see several tabs: Code, Issues, Pull requests, Actions, Projects, Wiki, Security, Insights, <strong>Settings</strong></li>
+      <li>Click on the <strong>Settings</strong> tab (it's the last tab on the right)</li>
+      <li>In the left sidebar, scroll down until you find the "Code and automation" section</li>
+      <li>Under "Code and automation", click on <strong>Actions</strong>, then click on <strong>General</strong></li>
+      <li>Scroll all the way down to the <strong>Workflow permissions</strong> section</li>
+      <li>Select the <strong>Read and write permissions</strong> radio button</li>
+      <li>Click the <strong>Save</strong> button</li>
+    </ol>
+    <p><strong>Still can't find it?</strong> You can access it directly by going to: <code>github.com/YOURUSERNAME/YTLite/settings/actions</code> (replace YOURUSERNAME with your GitHub username)</p>
+    <p><strong>Note:</strong> If you don't see the Settings tab at all, it means you're viewing the original repository, not your fork. Go to your GitHub profile and find your forked copy of YTLite.</p>
+</details>

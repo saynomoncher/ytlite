@@ -64,8 +64,15 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 > [!NOTE]
 > If this your first time, complete following steps before starting:
 >
-> 1. Fork this repository using the fork button on the top right
-> 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
+> 1. **Fork this repository** using the fork button on the top right
+> 2. **Enable GitHub Actions permissions** on your forked repository:
+>    - Click on the **Settings** tab (at the top of your forked repo page)
+>    - In the left sidebar, scroll down to find **Actions** under the "Code and automation" section, then click on **General**
+>    - Scroll down to the **Workflow permissions** section at the bottom of the page
+>    - Select **Read and write permissions**
+>    - Click **Save**
+>    
+>    *Can't find Settings? Make sure you're on YOUR forked repository page (it should say `yourusername/YTLite` at the top, not `dayanch96/YTLite`). The Settings tab appears after the Pull requests tab.*
 
 <details>
   <summary>How to build the YouTube Plus app</summary>
